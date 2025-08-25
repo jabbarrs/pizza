@@ -4,7 +4,7 @@ import { Link } from "react-router"
 function Error() {
     return (
         <section>
-            <div style={{ height: '100vh', display: 'flex', alignItems: 'center' }}>
+            <div style={{ height: '70vh', display: 'flex', alignItems: 'center' }}>
                 <Container>
                     <Row className="justify-content-center">
                         <Col md={8} className="text-center">

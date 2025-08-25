@@ -1,1 +1,7 @@
-#logo {width: 90px;}
+#logo {
+  height: 2em;
+}
+
+.thumb {
+  height: 2em;
+}
